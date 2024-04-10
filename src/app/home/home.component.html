@@ -1,0 +1,160 @@
+
+ 
+
+<!-- <div class="side">
+<div class="sidebar">
+    <h3 class="txt"><a href="">DashBoard</a></h3> 
+    <button id="btn"><a routerLink="../reg">Add Employe</a></button>  -->
+    <!-- <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+   
+   
+
+   
+  
+</head>
+<body> -->
+    <div class="d-flex" id="wrapper">
+      
+        <div class="border-end bg-white" id="sidebar-wrapper">
+            <div class="sidebar-heading border-bottom bg-light"></div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Dashboard</a>
+                <br>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Shortcuts</a>
+                <br>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Overview</a>
+                <br>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Events</a>
+                <br>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Profile</a>
+                <br>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Status</a>
+            </div>
+        </div>
+        <!-- Page content wrapper-->
+        <div id="page-content-wrapper">
+            <!-- Top navigation-->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button [routerLink]="['/reg']" class="btn btn-primary" >Register Employee</button> 
+                     
+                </div>
+            </nav>
+            <!-- Page content-->
+            
+            <div class="container-fluid">
+                <div class="dashboard">
+                    <h2>EMPLOYEE DATA!</h2>
+                    <br>
+                    <table class="custom-table"   >
+                      <thead style="border: none;">
+                        <tr style="background-color: beige;">
+                          <th style="padding : 5px;">Sr No.</th>
+                          <th style="padding : 20px;">Emp ID</th>
+                          <th style="padding : 20px;">First Name</th>
+                          <th style="padding : 20px;">Last Name</th>
+                          <th style="padding : 20px;">Adress</th>
+                          <th style="padding : 20px;">City</th>
+                          <th style="padding : 20px;">State</th>
+                          <th style="padding : 20px;">Zip</th>
+                          <th style="padding : 20px;">Phone No</th>
+                          <th style="padding-left: 40px;">Email</th>
+                          <th style="padding-left: 40px;">UPDATE</th>
+                          <th style="padding-left: 40px;">DELETE</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let item of user; let i = index">
+                            <td>{{ i + 1 }}</td>
+
+                            <td>{{ item.id }}</td>
+                            <td>{{ item.fname }}</td>
+                            <td>{{ item.lname }}</td>
+                            <td>{{ item.adrs }}</td>
+                            <td>{{ item.city }}</td>
+                            <td>{{ item.state }}</td>
+                            <td>{{ item.zip }}</td>
+                            <td>{{ item.phn }}</td>
+                            <td>{{ item.mail }}</td>
+                            <td style="padding:3px"><button  (click)="edit(item)" style="padding:4px;width: 70px;" class="button3">UPDATE</button></td>
+                            <td  style="padding:3px"><button id="button1" style="padding: 4px;width: 70px;" (click)="DeleteData(item.id)">DELETE</button></td>
+                            
+                         
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JS
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    Core theme JS-->
+    <!-- <script src="js/scripts.js"></script>
+</body> --> 
+ 
+
+
+     
+    <router-outlet></router-outlet>
+
+
+
+<!-- 
+</div>
+   
+</div> -->
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

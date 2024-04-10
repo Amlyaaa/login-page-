@@ -1,0 +1,298 @@
+{
+  "register": [
+    {
+      "id": "5f65",
+      "name": "AMola",
+      "mail": "AmolDangi@gmail.com",
+      "Password": "Amol123@"
+    },
+    {
+      "id": "810d",
+      "name": "Anil",
+      "mail": "Anil@gmail.com",
+      "Password": "Amol123@"
+    },
+    {
+      "id": "3c35",
+      "mail": "Anil@gmail.com",
+      "Password": "Amol123@"
+    },
+    {
+      "id": "c148",
+      "mail": null,
+      "Password": null
+    },
+    {
+      "id": "c8b8",
+      "name": "bbbbbb",
+      "mail": "bbbb@gmail.com",
+      "Password": ""
+    },
+    {
+      "id": "2d8f",
+      "name": "omakr",
+      "mail": "omkar@gmail.com",
+      "Password": "omkar123@"
+    },
+    {
+      "id": "3936",
+      "name": "Rohit",
+      "mail": "rohit@gmail.com",
+      "Password": "rohit@gmail.com"
+    },
+    {
+      "id": "67ba",
+      "name": "avina",
+      "mail": "avina12@gmail.com",
+      "Password": "avina123"
+    },
+    {
+      "id": "5fb0",
+      "name": "",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "e996",
+      "name": "",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "a2e8",
+      "name": "omu",
+      "mail": "omu@gmail.com",
+      "Password": "omu123"
+    },
+    {
+      "id": "4145",
+      "name": "",
+      "mail": "omu@gmail.com",
+      "Password": "omu123"
+    },
+    {
+      "id": "98c6",
+      "name": "",
+      "mail": "omu@gmail.com",
+      "Password": "omu123"
+    },
+    {
+      "id": "a213",
+      "name": "omkar",
+      "mail": "omkar@gmail.com",
+      "Password": "omkar123"
+    },
+    {
+      "id": "1f1f",
+      "name": "ramesh patil",
+      "mail": "ramesh@gmail.com",
+      "Password": "ramesh123"
+    },
+    {
+      "id": "c4b5",
+      "name": "Amu",
+      "mail": "amu@gmail.com",
+      "Password": "Amu123@"
+    },
+    {
+      "id": "2b39",
+      "name": "amoldangi",
+      "mail": "amol@gmail.com",
+      "Password": "amol12345@"
+    },
+    {
+      "id": "1808",
+      "name": "doremon",
+      "mail": "doremon@gmail.com",
+      "Password": "doremon123"
+    },
+    {
+      "id": "f497",
+      "name": "rahul",
+      "mail": "rahul@gmail.com",
+      "Password": "rahul123"
+    }
+  ],
+  "login": [
+    {
+      "id": "14d8",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "11b9",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "0400",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "b8b6",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "341d",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "41e5",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "4f39",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "8e41",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "3b07",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "36ad",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "e71b",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "48a4",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "3321",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "becb",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "8d4d",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "f666",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "9c75",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "f4aa",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "82ab",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "3e61",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "12f7",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "8892",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "984c",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "bfa7",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "a1cd",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "b2cb",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "9008",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "4151",
+      "mail": "",
+      "Password": ""
+    },
+    {
+      "id": "db8c",
+      "mail": "omkar@gmail.com",
+      "Password": "omkar123@"
+    }
+  ],
+  "add-emp": [
+    {
+      "id": "1ea4",
+      "fname": "aaaa",
+      "lname": "patil",
+      "adrs": "mumbai",
+      "city": "mumnbai",
+      "state": "punjab",
+      "zip": "123213",
+      "phn": "1233211234",
+      "mail": "rahul@gmailk.com"
+    },
+    {
+      "id": "ae80",
+      "fname": "gg",
+      "lname": "gg",
+      "adrs": "gg",
+      "city": "gg",
+      "state": "gg",
+      "zip": "gg",
+      "phn": "33333333333",
+      "mail": "asds@gmail.com"
+    },
+    {
+      "id": "9bff",
+      "fname": "Avina",
+      "lname": "Javed",
+      "adrs": "asxs",
+      "city": "Shikago",
+      "state": "Select",
+      "zip": "2133",
+      "phn": "07507205454",
+      "mail": "avina12@gmail.com"
+    }
+  ]
+}

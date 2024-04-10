@@ -1,0 +1,128 @@
+ 
+.side{
+    display:flex;
+}
+.sidebar{
+    width:20%;
+     
+    height:500px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color:  rgb(223, 223, 245);
+
+}
+
+.main-content{
+    width:80%;
+    border:1px solid black;
+    height:500px;
+}
+.sidebar h3{
+    text-decoration: none;
+}
+#btn{
+    margin-top: 5px;
+    border-radius: 8px;
+    width:120px;
+    padding: 7px;
+    font-family: sans-serif;
+   background-color: #5bc0de;
+border: none;
+
+}
+#btn a{
+    text-decoration: none;
+    padding:4px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: whitesmoke;
+    font-weight: 500;
+}
+ .txt a{
+    text-decoration: none;
+     
+ }
+ .txt{
+    margin: 20px;
+ }
+ .list-group-item list-group-item-action list-group-item-light p-3{
+    margin-top: 20px;
+    padding: 40px;
+ }
+  
+ .navbar-expand-lg navbar-light bg-light border-bottom{
+    margin-left: 130px;
+ }
+ #sidebarToggle{
+    background-color: white;
+    text-decoration: none;
+    background-color: #0d6efd;
+ }
+ #sidebarToggle a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 700;
+ }
+ .custom-table{
+   margin-top: 20px;
+   margin-left: 30px;
+   border: none;
+ 
+ }
+
+ th{
+   border: none;
+    
+ }
+
+ td{
+   background-color: rgb(255, 255, 255);
+ 
+      border: none;
+    }
+tr:hover{
+   background-color:  rgb(161, 161, 161);
+}
+.btn btn-primary{
+   float: right;
+}
+#button1{
+    
+   background-color: #f44336;
+   border: none;
+   border-radius: 4px;
+   color: whitesmoke;
+   font-weight: 400;
+   font-family: sans-serif;
+}
+#button{
+   background-color:#04AA6D; ;
+   border-radius: 4px;
+   color: whitesmoke;
+   font-weight: 400;
+   font-family: sans-serif;
+   border: none;
+}
+.button3{
+   background-color:#04AA6D; ;
+   border-radius: 4px;
+   color: whitesmoke;
+   font-weight: 400;
+   font-family: sans-serif;
+   border: none;
+}
+.button3 a{
+   color: whitesmoke;
+   font-weight: 400;
+   font-family: sans-serif;
+   text-decoration: none;
+   padding:7px;
+   padding:0 3px 0 3px;
+   margin-top: 3px;
+}
+.dashboard h2{
+   text-align: center;
+   font-family: sans-serif;
+   margin-top: 30px;
+   font-weight: 600;
+}

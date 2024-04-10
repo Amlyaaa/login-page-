@@ -1,0 +1,32 @@
+ 
+ 
+<div class="main">
+
+<div class="reg">
+    <form [formGroup]="registerData" (ngSubmit)="SignUp()" >
+    <h2 class="head">REGISTRATION</h2>
+    
+    
+    <input class="txt1" formControlName="name" type="text" placeholder="Enter Name..."  />
+    <br>
+    <span class="spn" style="color:red;" *ngIf="name && name.invalid && name.touched">Please Enter Your Name!</span>
+    <br>
+    <input class="txt2" formControlName="mail"  type="text" #box1  placeholder="Enter Email..." ngModel />
+    <br>
+    <span class="spn" style="color:red;" *ngIf="mail && mail.invalid && mail.touched">Please Enter Email!</span>
+    <br>
+    <input class="txt3" formControlName="Password" type="password" #box2 placeholder="Enter Password..." ngModel/>
+    <br>
+    <span class="spn" style="color:red;" *ngIf="Password && Password.invalid && Password.touched">Please Enter Password!</span>
+    <br>
+    <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+    <label id="lbl" for="vehicle1">  I Accept All The Terms And Conditions!</label>
+    <br>
+    <button (click)="getData()" class="btn">SUBMIT</button>
+    <br>
+    <p id="act" >Already Have an Account? <a id="hrf" routerLink="../login">Login Now!</a></p>
+    </form>
+</div>
+<router-outlet></router-outlet>
+</div>
+

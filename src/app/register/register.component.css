@@ -1,0 +1,91 @@
+.main{
+    margin: 0 auto;
+    margin-top: 20px;
+    
+    width:450px;
+    height:520px;
+    background-color: #8AAAE5;
+}
+.reg{
+    margin:0 auto;
+    margin-top:20px;
+   
+    height:500px;
+    width:360px;
+    background-color: whitesmoke;
+    
+}
+.head{
+     margin-left: 90px;
+     font-family: sans-serif;
+     font-weight: 700;
+     color:#1E2761;
+     font-size: 22px;
+     font-weight: 900;
+}
+input:focus { 
+    outline: none; 
+    border-color: rgba(38, 191, 71, 1); 
+    box-shadow: 0 0 10px rgba(38, 191, 71, 1); 
+} 
+.txt1{
+    padding:14px;
+    width:290px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 2px solid rgb(194, 194, 245);
+     
+}
+.txt2{
+    padding:14px;
+    width:290px;
+    margin-left: 30px;
+      margin-top: 20px; 
+      border-radius: 5px;
+      border: 2px solid rgb(194, 194, 245);
+}
+.txt3{
+    padding:14px;
+    width:290px;
+    margin-left: 30px;
+   margin-top: 20px; 
+   border-radius: 5px;
+   border: 2px solid rgb(194, 194, 245);
+}
+
+.btn{
+    padding:10px;
+    width:250px;
+    margin-left: 55px;
+    margin-top: 25px;
+    background-color: #735DA5;
+    border: none;
+    border-radius: 4px;
+    font-weight: 700;
+    color:whitesmoke;
+    cursor: pointer;
+    font-size: 20px;
+}
+ 
+#vehicle1{
+    margin-top: 15px;
+    margin-left: 28px;
+    padding:20px;
+    
+}
+#act{
+    margin-left: 28px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+#hrf{
+    text-decoration: none;
+}
+.spn{
+    margin-left: 30px;
+}
+#lbl{
+    font-weight: 700;
+    margin-left: 10px;
+}

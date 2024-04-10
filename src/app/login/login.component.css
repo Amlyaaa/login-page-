@@ -1,0 +1,138 @@
+.login{
+    margin:0 auto;
+     
+    margin-top: 10px;
+    width:500px;
+    height:580px;
+    background-color: #8AAAE5;
+}
+.main{
+     
+    margin:0 auto;
+    margin-top: 30px;
+    width:380px;
+    height:540px;
+    background-color: whitesmoke;
+    border:1px  black;
+    box-shadow: 0px 10px 20px 0px rgba(#999,.25);
+ 
+
+
+}
+.head {
+    margin:0 auto;
+    justify-content: center;
+    
+   background-color: whitesmoke;
+}
+.lgn h4{
+    font-family: sans-serif;
+    margin: 0 0 20px;
+    line-height: 1;
+    color:#1E2761;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 30px;
+    padding-top:20px;
+    padding-left: 29px;
+    margin-left: 30px;
+    
+}
+.lgn{
+    margin:0px auto;
+    /* border:1px solid black; */
+    height:320px;
+    width:380px;
+    /* background-color: rgb(123, 195, 218); */
+ 
+}
+.label{
+    font-family:sans-serif;
+    font-size: 22px;
+    margin-left:158px;
+    padding-top: 1px;;
+    font-weight: 700;
+    color:#1E2761 ;
+   
+
+}
+.label1{
+    font-family: sans-serif;
+    font-size: 22px;
+    margin-left:140px;
+    padding-top: -13px;
+    font-weight: 700;
+    color:#1E2761 ;
+   
+
+}
+input:focus { 
+    outline: none; 
+    border-color: rgba(38, 191, 71, 1); 
+    box-shadow: 0 0 10px rgba(38, 191, 71, 1); 
+    
+} 
+.txt{
+    padding:14px;
+    width:290px;
+    margin-top: 15px;
+    margin-left: 45px;
+    border-width: 1px;
+    border-radius: 2px;
+    border-radius: 5px;
+    border: 2px solid rgb(194, 194, 245);
+     
+}
+.btn{
+    margin-left: 70px;
+    padding:10px;
+    width:250px;
+    font-size: 20px;
+    border: none;
+    background-color: #735DA5;
+    border-radius: 4px;
+    font-weight: 700;
+    color:whitesmoke;
+    cursor: pointer;
+
+}
+.spn{
+    margin-left: 46px;
+}
+.img{
+    margin-left: 100px;
+} 
+.hrf {
+    text-decoration: none;
+     margin-top:90px; 
+    margin-left: 90px;
+    font-size: 18px;
+     position: relative;
+     left:30px;
+     top:20px;
+     font-family: sans-serif;
+}
+.sgn{
+    position: relative;
+    bottom:-10px;
+    left:85px;
+    margin-top: 30px;
+    text-decoration: none;
+    font-size:18px ;
+    font-family: sans-serif;
+}
+.p{
+    font-family: sans-serif;
+    font-size:18px ;
+    margin-left: 140px;
+    color:#1E2761;
+}
+.png{
+      margin-left: 20px;
+      margin-bottom: 90px;
+      position: relative;
+     left:115px;
+     cursor: pointer;
+}
+ 
+ 
